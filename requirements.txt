@@ -1,3 +1,10 @@
 ipykernel
 nbformat
 python-dotenv
+openai
+pandas
+duckdb
+duckdb-engine
+pydantic
+pyarrow
+fastparquet
