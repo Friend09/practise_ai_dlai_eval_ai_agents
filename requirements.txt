@@ -8,3 +8,4 @@ duckdb-engine
 pydantic
 pyarrow
 fastparquet
+matplotlib
